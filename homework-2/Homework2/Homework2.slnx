@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassLibrary2Task2.Domain/ClassLibrary2Task2.Domain.csproj" />
+  <Project Path="ClassLibraryTask1.Domain/ClassLibraryTask1.Domain.csproj" />
+  <Project Path="Task1/Task1.csproj" />
+  <Project Path="Task2/Task2.csproj" />
+</Solution>
